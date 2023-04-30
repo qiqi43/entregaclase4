@@ -1,0 +1,36 @@
+*{
+    font-family: nunito,arial,verdana;
+    font-weight: bold;
+    margin: 0;
+    padding: 0;
+}
+.texto{
+    border-color: steelblue;
+    border-style:solid;
+    border-radius: 5px;
+    border-width: 2px;
+    background-color: #98c3ef97;
+}
+form{
+    background-color: #73b0ed;;
+    border: 0px;
+}
+html{
+    background-color: #98c3ef;
+}
+input{
+    background-color: #98c3ef97;
+}
+img{
+    background-color: bisque;
+    align-items: center;
+    border-radius: 4px;
+    margin: 0 40%;
+    align-items: center;
+    text-align: center;
+}
+img,h1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
